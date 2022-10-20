@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "757912493814",
+    "firebase_url": "https://market-b5f96.firebaseio.com",
+    "project_id": "market-b5f96",
+    "storage_bucket": "market-b5f96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757912493814:android:f8ea62af3e4c8ec75356d7",
+        "android_client_info": {
+          "package_name": "com.inativecoder.market_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757912493814-hs7a4a2jj00drirvt9rla6q17aodjh94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8AwlC_IwtmXXxHIGaysN_xbnHsbIjvaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757912493814-hs7a4a2jj00drirvt9rla6q17aodjh94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
